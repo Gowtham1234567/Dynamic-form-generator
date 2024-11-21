@@ -65,6 +65,20 @@ This is a dynamic form generator built using React. The app allows users to crea
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/dynamic-form-generator.git
+
+# Navigate into the project folder:
+
+bash
+Copy code
+cd dynamic-form-generator
+Install the required dependencies:
+
+npm install
+# Running Locally:
+To start the development server, run:
+
+npm start
+# Open your browser and go to http://localhost:3000 to view the application.
 # Example JSON
    {
   "formTitle": "User Registration",
