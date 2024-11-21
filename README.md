@@ -44,3 +44,24 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# Dynamic Form Generator
+
+This is a dynamic form generator built using React. The app allows users to create forms based on a JSON schema.
+
+## Features
+- JSON schema editor
+- Dynamic form rendering based on schema
+- Validation for required fields
+
+## Setup Instructions
+
+### Prerequisites:
+- **Node.js**: You need to have Node.js installed. Download it from [Node.js Official Website](https://nodejs.org/).
+- **npm**: npm comes with Node.js. You can check if it's installed with the command `npm -v`.
+
+### Install Dependencies:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/dynamic-form-generator.git
